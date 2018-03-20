@@ -1,2 +1,1 @@
-total 0
--rw-rw-r-- 1 saksham saksham 0 Mar 21 02:04 testing1.txt
+testing1.txt
