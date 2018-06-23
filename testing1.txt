@@ -1,2 +1,0 @@
-total 0
--rw-r--r-- 1 pi pi 0 Jun 23 16:57 testing1.txt
