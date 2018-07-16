@@ -1,119 +1,119 @@
-"date" : 16/Jul/2018,"time" : 00:18,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:18,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:18,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:18,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:18,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:18,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:18,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:18,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:18,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:18,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:18,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:18,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:18,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:18,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:18,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:18,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:18,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:18,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:18,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:18,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:18,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:19,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
-"date" : 16/Jul/2018,"time" : 00:20,"temp" : 12.12,"hum" : 12.12,"press" : 12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:20,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:21,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:22,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:22,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:22,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:22,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:22,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:22,"temp":12.12,"hum":12.12,"press":12.12
+"date":16/Jul/2018,"time":00:22,"temp":12.12,"hum":12.12,"press":12.12
