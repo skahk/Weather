@@ -1,6 +1,6 @@
 [
-{"date":16/Jul/2018,"time":00:24,"temp":12.12,"hum":12.12,"press":12.12},
-{"date":16/Jul/2018,"time":00:24,"temp":12.12,"hum":12.12,"press":12.12},
-{"date":16/Jul/2018,"time":00:24,"temp":12.12,"hum":12.12,"press":12.12},
-{"date":16/Jul/2018,"time":00:24,"temp":12.12,"hum":12.12,"press":12.12},
+{"date":16/Jul/2018,"time":00:25,"temp":12.12,"hum":12.12,"press":12.12},
+{"date":16/Jul/2018,"time":00:25,"temp":12.12,"hum":12.12,"press":12.12},
+{"date":16/Jul/2018,"time":00:25,"temp":12.12,"hum":12.12,"press":12.12},
+{"date":16/Jul/2018,"time":00:25,"temp":12.12,"hum":12.12,"press":12.12},
 ]
