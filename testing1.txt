@@ -1,5 +1,5 @@
 [
-{"date":16/Jul/2018,"time":00:22,"temp":12.12,"hum":12.12,"press":12.12},
+{"date":16/Jul/2018,"time":00:23,"temp":12.12,"hum":12.12,"press":12.12},
 {"date":16/Jul/2018,"time":00:23,"temp":12.12,"hum":12.12,"press":12.12},
 {"date":16/Jul/2018,"time":00:23,"temp":12.12,"hum":12.12,"press":12.12},
 {"date":16/Jul/2018,"time":00:23,"temp":12.12,"hum":12.12,"press":12.12},
