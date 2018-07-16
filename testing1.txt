@@ -1,7 +1,8 @@
 [
-{"date":16/Jul/2018,"time":00:27,"temp":12.12,"hum":12.12,"press":12.12},
-{"date":16/Jul/2018,"time":00:27,"temp":12.12,"hum":12.12,"press":12.12},
-{"date":16/Jul/2018,"time":00:27,"temp":12.12,"hum":12.12,"press":12.12},
-{"date":16/Jul/2018,"time":00:27,"temp":12.12,"hum":12.12,"press":12.12},
-{"date":16/Jul/2018,"time":00:27,"temp":12.12,"hum":12.12,"press":12.12},
-{"date":16/Jul/2018,"time":00:27,"temp":12.12,"hum":12.12,"press":12.12}#n]
+{"date":16/Jul/2018,"time":00:28,"temp":12.12,"hum":12.12,"press":12.12},
+{"date":16/Jul/2018,"time":00:28,"temp":12.12,"hum":12.12,"press":12.12},
+{"date":16/Jul/2018,"time":00:28,"temp":12.12,"hum":12.12,"press":12.12},
+{"date":16/Jul/2018,"time":00:28,"temp":12.12,"hum":12.12,"press":12.12},
+{"date":16/Jul/2018,"time":00:28,"temp":12.12,"hum":12.12,"press":12.12},
+{"date":16/Jul/2018,"time":00:28,"temp":12.12,"hum":12.12,"press":12.12}
+]
